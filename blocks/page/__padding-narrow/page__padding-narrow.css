@@ -1,0 +1,15 @@
+.page__padding-narrow {
+    margin: 0 48px 0;
+}
+
+@media screen and (max-width: 1023px) {
+    .page__padding-narrow {
+        margin: 0 24px 0;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .page__padding-narrow {
+        margin: 0 16px 0;
+    }
+}
