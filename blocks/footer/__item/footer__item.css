@@ -1,0 +1,21 @@
+.footer__item {
+  margin-right: 18px;
+}
+
+.footer__item:last-child {
+  margin-right: 0;
+}
+
+.footer__item:hover {
+  opacity: 0.8;
+}
+
+@media screen and (max-width: 767px) {
+  .footer__item {
+    padding-bottom: 32px;
+  }
+
+  .footer__item:last-child {
+    padding-bottom: 0;
+  }
+}

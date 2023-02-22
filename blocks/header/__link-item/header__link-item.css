@@ -1,0 +1,7 @@
+.header__link-item {
+  padding-left: 18px;
+}
+
+.header__link-item:first-child {
+  padding-left: 0;
+}

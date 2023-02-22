@@ -1,18 +1,15 @@
 .page__padding-bottom {
-    padding-bottom: 92px;
-}
-
-@media screen and (max-width: 1279px) {
+  padding-bottom: 92px;
 }
 
 @media screen and (max-width: 1023px) {
-    .page__padding-bottom {
-        padding-bottom: 88px;
-    }
+  .page__padding-bottom {
+    padding-bottom: 88px;
+  }
 }
 
 @media screen and (max-width: 767px) {
-    .page__padding-bottom {
-        padding-bottom: 64px;
-    }
+  .page__padding-bottom {
+    padding-bottom: 64px;
+  }
 }

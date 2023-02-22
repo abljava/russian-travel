@@ -1,20 +1,19 @@
 .header__lang-link {
-    padding-left: 18px;
-    font-weight: 400;
-    font-size: 24px;
-    line-height: 1.1;
-    text-decoration: none;
-    color: #fff;
-    transition: opacity 0.3s;
-}
-
-@media screen and (max-width: 767px) {
-    .header__lang-link {
-        font-size: 18px;
-        line-height: 1.1;
-    }
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 1.1;
+  text-decoration: none;
+  color: #fff;
+  transition: opacity 0.3s;
 }
 
 .header__lang-link:hover {
-    opacity: 0.8;
+  opacity: 0.8;
+}
+
+@media screen and (max-width: 767px) {
+  .header__lang-link {
+    font-size: 18px;
+    line-height: 1.1;
+  }
 }
