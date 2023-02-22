@@ -9,6 +9,6 @@
 * отзывчивая вёрстка
 * работа с макетом Figma
 
-**ССылка на проект**
+**Сcылка на проект**
 
-[Путешествие по России](https://https://abljava.github.io/russian-travel/)
+[Путешествие по России](https://https://abljava.github.io/russian-travel/index.html)
