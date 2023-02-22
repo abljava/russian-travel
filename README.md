@@ -11,4 +11,4 @@
 
 **Сcылка на проект**
 
-[Путешествие по России](https://https://abljava.github.io/russian-travel/index.html)
+[Путешествие по России](https://abljava.github.io/russian-travel/)
